@@ -17,6 +17,6 @@
 /tmp
 /.idea
 /.ruby-version
-Gemfile.lock
+# Gemfile.lock
 config/database.yml
 db/schema.rb
